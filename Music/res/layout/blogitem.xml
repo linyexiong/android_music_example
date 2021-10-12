@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="点击下列的打开我的博客按钮，或者百度一下csdn茕夜的专栏，希望大家加个关注，一起学习交流！"
+        android:textSize="20sp" />
+
+    <TextView
+		android:id="@+id/uri"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="http://blog.csdn.net/u012561176"
+        android:textSize="20sp" />
+
+</LinearLayout>

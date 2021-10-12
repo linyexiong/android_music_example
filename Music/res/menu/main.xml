@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.music.MainActivity" >
+
+    <item 
+    android:id="@+id/call"
+    android:title="浏览网页"/>
+      
+<item 
+    android:id="@+id/about"
+    android:title="关于作者"/>
+
+ <item
+        android:id="@+id/blog"
+        android:title="作者博客"/>
+
+<item 
+    android:id="@+id/exit"
+    android:title="退出应用"/>
+
+
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+	<TextView
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:text="作者:小熊，我是一个快乐的小熊，但是我是一个孤独的程序猿，好好学习，天天向上，加油！小熊，一切都会好的！"
+	    android:textColor="#99CCFF"
+	    android:textSize="21sp"/>
+    
+</LinearLayout>
